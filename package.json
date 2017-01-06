@@ -27,6 +27,7 @@
     "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
   },
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "ejs": "^2.4.1"   
   }
 }
